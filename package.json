@@ -1,0 +1,14 @@
+{
+  "name": "TouchServer",
+  "version": "1.0.0",
+  "description": "The new type experimental web server for web developers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "himazin355",
+  "license": "MIT",
+  "dependencies": {
+    "mime-types": "^2.1.32"
+  }
+}
